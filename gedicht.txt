@@ -10,3 +10,9 @@ otto holt obst
 otto horcht
 otto: mops mops
 otto hofft
+
+ottos mops klopft
+otto: komm mops komm
+ottos mops kommt
+ottos mops kotzt
+otto: ogottogott
